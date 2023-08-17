@@ -1,9 +1,9 @@
 {
-  "name": "Cultswap List",
+  "name": "NyanFarm List",
   "timestamp": "2023-08-17T00:30:00.000Z",
-  "logoURI": "https://cultswap.com/favicon.ico",
+  "logoURI": "https://NyanFarm.tech/favicon.ico",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -17,9 +17,9 @@
       "logoURI": "https://raw.githubusercontent.com/piggyswap/tokenlist/main/logos/bnb.png"
     },
     {
-      "name": "CultSwap",
-      "address": "0xa2Af585FE5962c27e690E4433A743672c0b4150d",
-      "symbol": "CultOP",
+      "name": "NyanFarm",
+      "address": "0xbeE4a69dfd0baDA237B8D758608aB1ba435FD2EC",
+      "symbol": "NyanFarm",
       "decimals": 18,
       "chainId": 204,
       "logoURI": "https://raw.githubusercontent.com/piggyswap/tokenlist/main/logos/token.png"
